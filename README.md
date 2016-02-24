@@ -27,7 +27,7 @@ By the end of this, developers should be able to:
 
 Just a templating engine for JS.
 
-Docs: (http://handlebarsjs.com/)
+Handlebars Docs: (http://handlebarsjs.com/)
 
 ## Before handlebars
 
@@ -107,6 +107,7 @@ Using the documentation discussed refactor my code.
 Rules:
 
 - __NO FOR LOOPS__
+- You should try to do as much as you can utilizing Handlebars
 
 ## Lab: Now on Your Own
 
